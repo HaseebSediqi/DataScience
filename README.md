@@ -1,6 +1,7 @@
 # Linear Regression Model
 
-This project demonstrates the implementation of a Linear Regression model to predict continuous outcomes. The model is built using Python libraries, and various techniques like feature selection, regularization (Lasso), and model evaluation are demonstrated.
+This project demonstrates the implementation of a Linear Regression model to predict **housing prices** based on a variety of features such as the number of rooms, location, and square footage. The model is built using Python libraries, and various techniques like feature selection, regularization (Lasso), and model evaluation are demonstrated.
+
 
 ## Project Overview
 
